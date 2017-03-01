@@ -31,4 +31,3 @@ E=X-T*P';
 Ar=m-A;
 [Tr,Pr]=PCA(E,Ar);
 PP=R*Q'*Qy;
-PP
